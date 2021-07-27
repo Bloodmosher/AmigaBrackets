@@ -4,7 +4,7 @@ Custom replacemednt bracket for the A2320 deinterlacer board.
 ![](a2320-pic1.png)
 
 ## Ordering Information
-You can order these from any laser cutting service, such as oshcut.com:
+You can order these from any laser cutting service, such as [oshcut.com](https://app.oshcut.com/cart):
 - Upload the SVG file found in the svg folder
 - For material choose: 0.05" Aluminum 5052 H32
 - Select a "custom size" and enter: 4.813 x 1.248 inches

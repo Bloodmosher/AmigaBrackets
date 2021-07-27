@@ -4,7 +4,7 @@ Custom bracket for Amiga 2000 RGB2HDMI Video Slot V1.1 and earlier (https://gith
 ![](a2k-pic1.png)
 
 ## Ordering Information
-You can order these from any laser cutting service, such as oshcut.com:
+You can order these from any laser cutting service, such as [oshcut.com](https://app.oshcut.com/cart):
 - Upload the SVG file found in the svg folder
 - For material choose: 0.05" Aluminum 5052 H32
 - Select a "custom size" and enter: 4.812 x 1.438 inches
