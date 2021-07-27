@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="225" viewBox="0 0 3600 900">
+  <!--
+    Copyright 2021 by Bloodmosher
+  -->
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #172bc3;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-width: 1px;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Shape_316_1_copy" data-name="Shape 316 1 copy" class="cls-1" d="M2864,450.815H2743.5L2743,716c0,15.492-14.54,34-30,34H2548c-15.46,0-32-23.508-32-39l-0.5-260.185h-36v50.591a28.028,28.028,0,0,1-28,28.051H329.5a28.026,28.026,0,0,1-28-28.051V450.815h-37L265,724c0,15.492-13.536,26-29,26H65c-15.464,0-29-14.508-29-30l0.5-269.185H28A28.026,28.026,0,0,1,0,422.764V28.051A28.025,28.025,0,0,1,28,0H50a27.944,27.944,0,0,1,8.2,1.224A28.017,28.017,0,0,1,64.5.5h172a27.9,27.9,0,0,1,9.077,1.515A27.864,27.864,0,0,1,256,0h58a27.92,27.92,0,0,1,8.613,1.358A28.006,28.006,0,0,1,329.5.5h2122a28.059,28.059,0,0,1,5.15.482A27.987,27.987,0,0,1,2464,0h58a27.849,27.849,0,0,1,11.35,2.409A27.888,27.888,0,0,1,2543.5.5h172a27.916,27.916,0,0,1,8.54,1.333A27.847,27.847,0,0,1,2734,0h130a28.028,28.028,0,0,1,28,28.051V422.764A28.028,28.028,0,0,1,2864,450.815Z"/>
+  <path id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-2" d="M739,114h418a25,25,0,0,1,25,25V353a25,25,0,0,1-25,25H739a25,25,0,0,1-25-25V139A25,25,0,0,1,739,114Z"/>
+  <circle id="Ellipse_3_copy" data-name="Ellipse 3 copy" class="cls-3" cx="102" cy="210" r="30"/>
+  <circle id="Ellipse_4_copy" data-name="Ellipse 4 copy" class="cls-3" cx="2802" cy="210" r="30"/>
+  <circle class="cls-3" cx="152" cy="678" r="39"/>
+  <circle class="cls-3" cx="2628" cy="678" r="39"/>
+  <circle id="Connector_Hole_1" data-name="Connector Hole 1" class="cls-3" cx="654" cy="240" r="42"/>
+  <circle id="Connector_Hole_2" data-name="Connector Hole 2" class="cls-3" cx="1248" cy="240" r="42"/>
+  <circle id="Button_Hole_1" data-name="Button Hole 1" class="cls-3" cx="1632" cy="258" r="84"/>
+  <circle id="Button_Hole_1_copy" data-name="Button Hole 1 copy" class="cls-3" cx="1869" cy="297" r="51"/>
+</svg>
