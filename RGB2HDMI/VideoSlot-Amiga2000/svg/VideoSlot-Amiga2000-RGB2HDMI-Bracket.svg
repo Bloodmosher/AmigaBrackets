@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="255" viewBox="0 0 3600 1020">
+  <!--
+    Copyright 2021 by Bloodmosher
+  -->
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #172bc3;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-width: 1px;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Shape_316_1_copy" data-name="Shape 316 1 copy" class="cls-1" d="M2845,650s-1251.64-1-1572-1c-16.39,0-20.53-15.346-21-28-0.85-22.6,1.98-50-2-50-29.98,0-35.5-.185-35.5-0.185L1214,905c0,15.492-14.54,34-30,34H953c-15.464,0-32-23.508-32-39l-0.5-329.185h-36v50.591a28.026,28.026,0,0,1-28,28.051h-428a28.026,28.026,0,0,1-28-28.051V570.815h-37L364,913c0,15.492-13.536,26-29,26H94c-15.464,0-29-14.508-29-30l0.5-338.185L32,571c-15.464,0-32-12.744-32-28.236V103.051A28.025,28.025,0,0,1,28,75H2864a28.028,28.028,0,0,1,28,28.051V609C2892,608.425,2887.42,650,2845,650Z"/>
+  <path id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-2" d="M1492,198h418a25,25,0,0,1,25,25V437a25,25,0,0,1-25,25H1492a25,25,0,0,1-25-25V223A25,25,0,0,1,1492,198Z"/>
+  <circle id="Connector_Hole_1" data-name="Connector Hole 1" class="cls-3" cx="1407" cy="324" r="42"/>
+  <circle id="Connector_Hole_2" data-name="Connector Hole 2" class="cls-3" cx="2001" cy="324" r="42"/>
+  <circle id="Ellipse_3_copy" data-name="Ellipse 3 copy" class="cls-3" cx="90" cy="330" r="30"/>
+  <circle id="Ellipse_4_copy" data-name="Ellipse 4 copy" class="cls-3" cx="2784" cy="330" r="30"/>
+  <circle class="cls-3" cx="220" cy="837" r="39"/>
+  <circle class="cls-3" cx="1073" cy="840" r="39"/>
+  <circle id="Button_Hole_1" data-name="Button Hole 1" class="cls-3" cx="2333" cy="329" r="84"/>
+</svg>
